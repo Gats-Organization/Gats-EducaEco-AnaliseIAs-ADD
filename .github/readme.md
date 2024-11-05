@@ -49,3 +49,7 @@ with open("modelo_escolhido.pkl", "rb") as file:
 
 # Fazer previsões
 # Exemplo: previsao = modelo.predict(X_novo)
+```
+
+## Criador
+- Murilo de Oliveira Moreira
